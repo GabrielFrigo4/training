@@ -1,0 +1,6 @@
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/GabrielFrigo4/cp-training.git
+[submodule "Marathon"]
+	path = Marathon
+	url = https://github.com/GabrielFrigo4/icpc-training.git
