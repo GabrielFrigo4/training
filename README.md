@@ -22,13 +22,10 @@ O repositório **Training** centraliza o ecossistema de algoritmos e preparaçã
 ```mermaid
 flowchart TD
     subgraph TH ["🎯 Training Hub"]
-        direction TB
-        ALGO["⚡ Algorithms<br/>Hub Geral de Programação Competitiva<br/>Templates C++23 / Python / Rust • CLI cpt • Handbook"]
-        MARA["🏆 Marathon<br/>Maratona de Programação SBC / ICPC<br/>Preparação para a Final Nacional 2026 • Makefiles Oficiais"]
+        direction LR
+        ALGO["⚡ Algorithms<br/>Hub Geral de Programação Competitiva<br/>Templates C++23 / Rust / Python • CLI cpt • Handbook"]
+        MARA["🏆 Marathon<br/>Maratona de Programação SBC / ICPC<br/>Final Nacional 2026 • Makefiles Oficiais"]
     end
-
-    TH --> ALGO
-    TH --> MARA
 ```
 
 ---
