@@ -14,15 +14,6 @@
 
 ---
 
-## 🎯 Grandes Épicos do Hub
+## 🎯 Backlog & Tarefas
 
-### 1. 🏆 Rumo à Final Nacional do ICPC 2026
-
-- [ ] **Simulações de 5 Horas:** Executar contests históricos de regionais latino-americanas com a equipe GRUB.
-- [ ] **Tópicos Avançados de Geometria & Teoria dos Números:** Reforçar templates de Sweep-line, Convex Hull 3D e FFT/NTT.
-- [ ] **Treinamento Intensivo no Codeforces:** Manter regularidade de resoluções de problemas Div. 1/Div. 2 (1800-2400).
-
-### 2. ⚡ Ferramenta CLI `cpt` & Caderno de Algoritmos
-
-- [ ] **Automação de Testes de Estresse:** Gerador de testes pseudoaleatórios integrado com verificador ingênuo (_brute force_).
-- [ ] **Handbook PDF Automatizado:** Compilação em LaTeX de alta densidade tipográfica para consulta autorizada em prova.
+_Nenhuma tarefa pendente no momento._
