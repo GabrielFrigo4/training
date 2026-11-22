@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![C++23](https://img.shields.io/badge/C++-23-00599C?logo=cplusplus&logoColor=white)](Algorithms/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Gerbunte-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Gerbunte)
-[![CI](https://github.com/GabrielFrigo4/training/actions/workflows/submodules.yml/badge.svg)](https://github.com/GabrielFrigo4/training/actions/workflows/submodules.yml)
+[![CI](https://github.com/GabrielFrigo4/training/actions/workflows/ci.yml/badge.svg)](https://github.com/GabrielFrigo4/training/actions/workflows/ci.yml)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-Federated_Hub-purple.svg)](https://github.com/GabrielFrigo4)
 
 </div>
